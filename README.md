@@ -4,7 +4,7 @@ This project is under the theme **Healthcare.**
 This was our first hackathon.
 
 ## 📃 Description 
-"Welcome to our stress-relieving website : [Sukoon](https://sukoon-stress-free.netlify.app/)! Here, you'll find a variety of tools and resources to help you manage and reduce stress in your daily life. From carefully crafted playlists and relaxing podcasts, to articles and tips on stress management techniques, our goal is to provide you with a one-stop-shop for all of your stress-relief needs. Whether you're looking for a quick break during a hectic workday, or a longer practice to unwind at night, we've got you covered. Take a look around, try out some of our resources, and let us know if there's anything we can do to improve your experience. Remember, taking care of yourself is just as important as taking care of your work and projects, so don't hesitate to make time for stress relief in your busy schedule."
+"Welcome to our stress-relieving website : Sukoon. Here, you'll find a variety of tools and resources to help you manage and reduce stress in your daily life. From carefully crafted playlists and relaxing podcasts, to articles and tips on stress management techniques, our goal is to provide you with a one-stop-shop for all of your stress-relief needs. Whether you're looking for a quick break during a hectic workday, or a longer practice to unwind at night, we've got you covered. Take a look around, try out some of our resources, and let us know if there's anything we can do to improve your experience. Remember, taking care of yourself is just as important as taking care of your work and projects, so don't hesitate to make time for stress relief in your busy schedule."
 
 ## 🕊 Our Tagline 
 The one step solution to get relief from your stress.
@@ -38,12 +38,9 @@ Live a stress-free life.
 Every contribution counts.
 1. Ensure that you have Git installed and working properly.
 2. Fork the repo by clicking on 'Fork' above.
-3. Clone the project by running git clone <forked_project_url>.
-4. Confused about where to start? Check out [good-first-issue](https://github.com/Susmita-Dey/Sukoon/labels/good%20first%20issue).
+3. Clone the project by running git clone.
 5. Make a separate branch with the issue name ex. issue#485.
 6. You are good to go. Change the code and we will be waiting for your exciting PRs.
-
-For contributing guidelines and standards, visit [contributing.md](https://github.com/Susmita-Dey/Sukoon/blob/main/CONTRIBUTING.md).
 
 ## Our Logo <a name = "logo"></a>
 <img src="./logo.png" width=140px height=110px alt="logo">
