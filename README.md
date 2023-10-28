@@ -16,6 +16,7 @@ Live a stress-free life.
 - [Get Started](#getStarted)
 - [Logo](#logo)
 - [Screenshots](#screenshots)
+- [Technology Stack](#tech_stack)
 
 ## 🔎 Problems it Solves: <a name = "problem_statement"></a>
 - Gives mental peace 🧘‍♀️
